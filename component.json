@@ -3,6 +3,5 @@
   , "repo": "formwatcher/reqwest"
   , "description": "A wrapper for asynchronous http requests"
   , "version": "0.4.5"
-  , "main": "./reqwest.js"
-  , "scripts": ["./reqwest.js"]
+  , "scripts": ["index.js"]
 }
